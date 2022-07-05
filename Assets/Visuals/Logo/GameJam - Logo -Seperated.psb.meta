@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 4624ff4ab6bf86f4d80e9ac8fafbbe95
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Galaga
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1209
+      y: 14453
+      width: 1034
+      height: 785
+    spriteID: 0bd36bab24b498747a290eed1ecc2075
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3080, y: 11681}
+  - name: Galaga Screen
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4080
+      y: 6710
+      width: 2940
+      height: 2567
+    spriteID: 759219db7020f55419791c10ef4d3392
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1414, y: 5487}
+  - name: Trello
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 14453
+      width: 1197
+      height: 964
+    spriteID: c9e31850f7d08ba4786c044a30d3fa08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1923, y: 12574}
+  - name: Trello Screen
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4080
+      y: 4467
+      width: 3551
+      height: 2235
+    spriteID: 1950ff176cd52b04ab09543327f481ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2299, y: 3244}
+  - name: Gamejam
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4467
+      width: 4068
+      height: 3358
+    spriteID: e0423f9d46fa1c54f915ce0414d27cb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1957, y: 4042}
+  - name: Trello Screen Stand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2933
+      y: 14453
+      width: 479
+      height: 554
+    spriteID: 8dda640e761d77c4cabe33902fb995f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 170, y: 12894}
+  - name: Galaga Screen Stand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2251
+      y: 14453
+      width: 674
+      height: 612
+    spriteID: 8e56c8a2b6b267b4794f13213be88a04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2101, y: 12409}
+  - name: Mouse
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3420
+      y: 14453
+      width: 338
+      height: 479
+    spriteID: dedb913cf9b90a84889ed409c1080e64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -517, y: 10637}
+  - name: Layer 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7833
+      width: 3414
+      height: 3414
+    spriteID: 3a5b947b4dbd6164bbf2dd2fc6d14811
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2043, y: 6945}
+  - name: Glitch Example
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 7096
+      height: 4455
+    spriteID: 430e6774873c38a40920a8157a008a40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: -340}
+  - name: Layer 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 11255
+      width: 3198
+      height: 3190
+    spriteID: 266dff26e4fad0646be9f0e024057516
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2152, y: 10260}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Galaga
+    spriteName: Galaga
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0bd36bab24b498747a290eed1ecc2075
+    layerID: 14
+    mosaicPosition: {x: 1209, y: 14453}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Galaga Screen
+    spriteName: Galaga Screen
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 759219db7020f55419791c10ef4d3392
+    layerID: 13
+    mosaicPosition: {x: 4080, y: 6710}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Trello
+    spriteName: Trello
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c9e31850f7d08ba4786c044a30d3fa08
+    layerID: 12
+    mosaicPosition: {x: 4, y: 14453}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Trello Screen
+    spriteName: Trello Screen
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1950ff176cd52b04ab09543327f481ff
+    layerID: 11
+    mosaicPosition: {x: 4080, y: 4467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Gamejam
+    spriteName: Gamejam
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e0423f9d46fa1c54f915ce0414d27cb6
+    layerID: 10
+    mosaicPosition: {x: 4, y: 4467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Trello Screen Stand
+    spriteName: Trello Screen Stand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8dda640e761d77c4cabe33902fb995f5
+    layerID: 9
+    mosaicPosition: {x: 2933, y: 14453}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Galaga Screen Stand
+    spriteName: Galaga Screen Stand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8e56c8a2b6b267b4794f13213be88a04
+    layerID: 8
+    mosaicPosition: {x: 2251, y: 14453}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Mouse
+    spriteName: Mouse
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dedb913cf9b90a84889ed409c1080e64
+    layerID: 7
+    mosaicPosition: {x: 3420, y: 14453}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Background And Ring
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: cf9018cd9a644984dadf27a3c75c09ca
+    layerID: 6
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 18
+    spriteName: Layer 18
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 3a5b947b4dbd6164bbf2dd2fc6d14811
+    layerID: 5
+    mosaicPosition: {x: 4, y: 7833}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Glitch Example
+    spriteName: Glitch Example
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 430e6774873c38a40920a8157a008a40
+    layerID: 4
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 10
+    spriteName: Layer 10
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 266dff26e4fad0646be9f0e024057516
+    layerID: 3
+    mosaicPosition: {x: 4, y: 11255}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Background
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 102387189d1aba34eafcf4a4d39267f2
+    layerID: 1
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
