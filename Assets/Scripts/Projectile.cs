@@ -2,7 +2,10 @@ using UnityEngine;
 
 public class Projectile : MonoBehaviour
 {
-    [SerializeField] float speed = 1f;
+    [SerializeField] private float speed = 1f;
+    [SerializeField] private GameObject visual;
+    [SerializeField] private ParticleSystem hit;
+
     private static readonly int Damage = Animator.StringToHash("damage");
 
     private void Update()
@@ -17,10 +20,12 @@ public class Projectile : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("Hellp;asd");
         var animator = other.GetComponent<Animator>();
         animator.SetTrigger(Damage);
-        
-        gameObject.SetActive(false);
+
+        enabled = false;
+        visual.SetActive(false);
+
+        hit.Play();
     }
 }
