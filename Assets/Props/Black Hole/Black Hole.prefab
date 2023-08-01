@@ -95,6 +95,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7521794182087466012}
   - component: {fileID: 4120334473229620806}
+  - component: {fileID: 6232266852738946296}
   m_Layer: 0
   m_Name: Blackhole Foreground
   m_TagString: Untagged
@@ -157,7 +158,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: 951291288, guid: 3e75cb09b3c814e7e90ec528433d0ce4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -169,6 +170,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &6232266852738946296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7057169634191052153}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8564400ff5a6daf40bb59a9e9f5f9f51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationSpeed: 50
 --- !u!1 &8182628590848244797
 GameObject:
   m_ObjectHideFlags: 0
@@ -179,6 +193,7 @@ GameObject:
   m_Component:
   - component: {fileID: 983829279731863237}
   - component: {fileID: 8631788173577209932}
+  - component: {fileID: 5856293905355816114}
   m_Layer: 0
   m_Name: Blackhole - Base
   m_TagString: Untagged
@@ -243,7 +258,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 524732156, guid: 3e75cb09b3c814e7e90ec528433d0ce4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -255,6 +270,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &5856293905355816114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8182628590848244797}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8564400ff5a6daf40bb59a9e9f5f9f51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationSpeed: 50
 --- !u!1 &8662675083471004326
 GameObject:
   m_ObjectHideFlags: 0
@@ -265,6 +293,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9173869682891877425}
   - component: {fileID: 2915631677204991914}
+  - component: {fileID: 5063998023613369054}
   m_Layer: 0
   m_Name: Blachole Background
   m_TagString: Untagged
@@ -340,6 +369,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &5063998023613369054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8662675083471004326}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8564400ff5a6daf40bb59a9e9f5f9f51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationSpeed: 100
 --- !u!1 &8744342416905998290
 GameObject:
   m_ObjectHideFlags: 0
